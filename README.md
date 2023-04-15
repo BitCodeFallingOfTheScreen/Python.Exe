@@ -1,2 +1,2 @@
 # Python.Exe
-alguns dos códigos que fiz.
+Alguns dos códigos que fiz.
